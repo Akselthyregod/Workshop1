@@ -11,6 +11,7 @@ public abstract class Actuator extends Unit{
 
     public double getValue() {
         return value;
+	//test
     }
 
     public void setValue(double value) {
